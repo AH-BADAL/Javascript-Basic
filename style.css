@@ -1,0 +1,29 @@
+body{
+  background: snow;
+  font-family: sans-serif;
+}
+
+#title{
+  font-size: 30px;
+  text-transform: uppercase;
+}
+h1{
+  color: tomato;
+  font-weight: 500px;
+  letter-spacing: 2px;
+}
+
+button{
+  width: 130px;
+  padding: 10px 12px;
+  background:tomato;
+  border-radius: 5px;
+  border: none;
+  font-family: tahoma;
+  color: white;
+  font-size: 20px;
+}
+
+button:hover{
+  background:black;
+}
