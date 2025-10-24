@@ -138,13 +138,14 @@ let maths = function (x, y) {
 }
 console.log(maths(3, 4));
 console.log(maths(10, 10));
-// Akoi namer function akadhikbar use kra jabe!
 
+
+// Akoi namer function akadhikbar use kra jabe!
 // javascript Arrays!
 // const lang1 = 'Html';
 // const lang2 = 'Css';
 // const lang3 = 'Javascript';
-// Javascript a array 2 vabe new jaw 
+// Javascript a array 2 vabe new jaw
 // 1
 // const language1 = ['Html', 'Css', 'Javascript', 'php,', 'larabel'];
 // 2
@@ -153,4 +154,6 @@ console.log(maths(10, 10));
 // console.log(language2);
 
 // javascript suru hw 0 number theke!
-// console.log(language[2]); 
+// console.log(language[2]);
+
+

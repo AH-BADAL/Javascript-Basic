@@ -1,16 +1,14 @@
 body{
   background: snow;
-  font-family: sans-serif;
+  font-family:cascadia-code;
 }
 
 #title{
-  font-size: 30px;
-  text-transform: uppercase;
+  font-size: 40px;
 }
 h1{
   color: tomato;
-  font-weight: 500px;
-  letter-spacing: 2px;
+  font-size: 40px;
 }
 
 button{
@@ -19,7 +17,6 @@ button{
   background:tomato;
   border-radius: 5px;
   border: none;
-  font-family: tahoma;
   color: white;
   font-size: 20px;
 }
